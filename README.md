@@ -1,4 +1,4 @@
-#Autoscaling Techniques and Blockchain-based Architectures for Performant and Dependable Complex Distributed Systems.
+# Autoscaling Techniques and Blockchain-based Architectures for Performant and Dependable Complex Distributed Systems.
 
 Dependability is an important measure which combines several properties to draw up the quality of a system. It is often combined with performability which quantifies how well the system performs in the presence of faults over a specified period of time. The recent wide spread of Cloud Computing has made such properties paramount, however as modern systems are increasing their complexity, ensuring such properties has become harder.
 
